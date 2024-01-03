@@ -6,5 +6,5 @@
 <li><a href = "https://docs.google.com/spreadsheets/d/1xPBQpYCY1qMSrYriYit1mVv1Wk8vlBwA/edit?usp=sharing&ouid=100125550971779851040&rtpof=true&sd=true">Чек-лист </a>для тестирования функциональности, удобства использования и пользовательского интерфейса</li>
 <li><a href = "https://github.com/Nomasqwe/mobile_testing/blob/main/TDM-2024-01-02.pdf"> Некоторые тест-кейсы</a></li>
 <li><a href = "https://drive.google.com/drive/folders/1cP_6L83AcQcyyeiIYMamNfBA5RwUfbEX?usp=sharing">Баг-репорты и прикрепленные аттачи к ним</a> </li>
-<li><a href = "">Отчет о результатах тестирования</a></li>
+<li><a href = "https://github.com/Nomasqwe/mobile_testing/blob/main/Report.pdf">Отчет о результатах тестирования</a></li>
 </ul>
